@@ -24,9 +24,17 @@
   }
 }
 
+.author__name {
+  // margin-bottom: 0px;
+  font-size: 30px;
+  text-align: center;
+  line-height: 0;
+  color: $gray;
+}
+
 .author__job {
   margin-bottom: 15px;
-  font-size: 37px;
+  font-size: 20px;
   text-align: center;
   color: $gray;
 }
