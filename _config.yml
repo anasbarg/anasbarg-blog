@@ -1,31 +1,33 @@
-title: Derrick Wells – Independent Product Designer
+title: Anas
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/derrick" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Founder and CEO of Pragma
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.anasbarg.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
-  image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  name: Anas
+  image: '/assets/img/01.png'
+  job: Founder and CEO of Pragma
+  bio: Naturally curious, and I build things to discover how they work.
+  email: anas@heavenlyx.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
+    link: https://twitter.com/anasbarg
   - name: Instagram
-    link: https://instagram.com/
+    link: https://instagram.com/anasbarg
+  - name: Github
+    link: https://github.com/anasbarg
+  - name: LinkedIn
+    link: https://linkedin.com/in/anasbarg
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
