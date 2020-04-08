@@ -5,7 +5,12 @@
   border-bottom: 1px solid $gray-lighten;
   @media (max-width: $mobile) {
     margin: 25px 0;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+  }
+
+  @media (max-width: 320px) {
+    margin: 20px 0;
+    padding-bottom: 25px;
   }
 }
 
@@ -25,7 +30,7 @@
 }
 
 .author__name {
-  margin-bottom: -20px;
+  margin-bottom: -40px;
   font-size: 30px;
   text-align: center;
   color: $gray;
@@ -35,7 +40,7 @@
   margin-bottom: 15px;
   font-size: 20px;
   text-align: center;
-  color: $gray;
+  color: $gray-dark;
 }
 
 .author__bio {
